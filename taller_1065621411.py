@@ -4,3 +4,6 @@ if edad>18 :
 else:
         print("Es menor de edad")
         
+#BUCLE
+for i in range(5):
+      print("Hola mundo")
