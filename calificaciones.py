@@ -32,4 +32,4 @@ print("\nResultados:")
 print(f"Mejor estudiante: {mejor_nombre} con calificación {mejor_calificacion:.1f}")
 print(f"Peor estudiante: {peor_nombre} con calificación {peor_calificacion:.1f}")
 print(f"Calificación promedio: {promedio:.2f}")
-# ...existing code...
+# ...existing code..
